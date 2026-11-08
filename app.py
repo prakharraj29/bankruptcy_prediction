@@ -21,7 +21,7 @@ model_map = {
     "Decision Tree": "models/decision_tree.pkl",
     "KNN": "models/knn.pkl",
     "Naive Bayes": "models/naive_bayes.pkl",
-    "Support Vector Machine": "models/svm.pkl"
+    "Support Vector Machine": "models/support_vector_machine.pkl"
 }
 
 st.sidebar.header("Model Selection")
